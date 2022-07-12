@@ -1,0 +1,10 @@
+Program Name: Tetris
+Date: July 11, 2022
+Author: Chris Wang
+
+Operation Introduction:
+Press 'p' to pause the game
+Press 'c' to continue the game when you paused the game
+Press 's' will restart the game and clear scores and lines
+Press 'space' will drop down instantly
+Press 'up' key will change the shapes
