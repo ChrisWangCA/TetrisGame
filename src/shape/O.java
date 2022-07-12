@@ -15,7 +15,7 @@ public class O extends Tetromino {
         cells[2] = new Cell(1,4, Tetris.O);
         cells[3] = new Cell(1,5, Tetris.O);
 
-        // total two rotate states
+        // total zero rotate states
         rotates = new Rotate[0];
     }
 }
